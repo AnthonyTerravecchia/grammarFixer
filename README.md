@@ -1,0 +1,2 @@
+# grammarFixer
+Write a program that reads a text file with a paragraph and fixes certain grammar mistakes.  The program should look for repeated spaces and remove them, remove capitals that are not at the beginning of the sentence or the word “I,” and add capitals to the beginning of sentences.  Sentences will be defined as ending with ‘.’, ‘!’ or ‘?’ followed by a whitespace.  Output the corrected passage to a new txt file.
